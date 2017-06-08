@@ -1,0 +1,9 @@
+c:\users\lck\documents\visual studio 2015\Projects\mezamashitokei\mezamashitokei\bin\Debug\mezamashitokei.exe.config
+c:\users\lck\documents\visual studio 2015\Projects\mezamashitokei\mezamashitokei\bin\Debug\mezamashitokei.exe
+c:\users\lck\documents\visual studio 2015\Projects\mezamashitokei\mezamashitokei\bin\Debug\mezamashitokei.pdb
+c:\users\lck\documents\visual studio 2015\Projects\mezamashitokei\mezamashitokei\obj\Debug\mezamashitokei.csprojResolveAssemblyReference.cache
+c:\users\lck\documents\visual studio 2015\Projects\mezamashitokei\mezamashitokei\obj\Debug\mezamashitokei.Properties.Resources.resources
+c:\users\lck\documents\visual studio 2015\Projects\mezamashitokei\mezamashitokei\obj\Debug\mezamashitokei.csproj.GenerateResource.Cache
+c:\users\lck\documents\visual studio 2015\Projects\mezamashitokei\mezamashitokei\obj\Debug\mezamashitokei.exe
+c:\users\lck\documents\visual studio 2015\Projects\mezamashitokei\mezamashitokei\obj\Debug\mezamashitokei.pdb
+c:\users\lck\documents\visual studio 2015\Projects\mezamashitokei\mezamashitokei\obj\Debug\mezamashitokei.目覚まし時計.resources
